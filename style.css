@@ -65,6 +65,8 @@ p {
     color: transparent;
     animation: text_reveal .5s ease forwards;
     animation-delay: 1.5s;
+
+    
 }
 #presentation h1:nth-child(1){
     animation-delay: .8s;
